@@ -2,7 +2,7 @@
 
 Nazywam się Magdalena Mazurek
 Jestem uczestnikiem DARE IT challenge: Automated testing + Python.
-Możecie mnie znaleść:
+Możecie mnie znaleść tutaj:
 https://www.linkedin.com/in/magdalena-mazurek-a1314063/
 
 
@@ -13,7 +13,7 @@ Podczas kursu korzystałam z takich narzędzi jak:
     Screenpresso, Mobizen
     Slack
     
-Nabyłam takie umiejętności jak:
+Nabyłam następujące umiejętności:
 
     Tworzenie rapotów
     Budowanie Robot Framework
